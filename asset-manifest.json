@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a240c550.css",
+    "main.js": "/static/js/main.2b4f036f.js",
+    "static/media/PlayCircleOutlineIcon.gif": "/static/media/PlayCircleOutlineIcon.20b219b673ded6ae0da3.gif",
+    "static/media/live-from-space.jpg": "/static/media/live-from-space.7eb434ac17eb29432a22.jpg",
+    "static/media/undraw_about_us_page_re_2jfm.svg": "/static/media/undraw_about_us_page_re_2jfm.921b98d04ec101b0b3a55873c65e912d.svg",
+    "index.html": "/index.html",
+    "main.a240c550.css.map": "/static/css/main.a240c550.css.map",
+    "main.2b4f036f.js.map": "/static/js/main.2b4f036f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.2b4f036f.js"
+  ]
+} 
